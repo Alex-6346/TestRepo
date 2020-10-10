@@ -1,0 +1,331 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"navb",
+				"navbar-brand"
+			],
+			[
+				"ali",
+				"text-align\tproperty"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"col-md",
+				"col-md-4"
+			],
+			[
+				"pa",
+				"padding-top\tproperty"
+			],
+			[
+				"ma",
+				"magicalparagraph"
+			],
+			[
+				"center",
+				"center-img"
+			],
+			[
+				"ce",
+				"center-img"
+			],
+			[
+				"inlin",
+				"inline-grid\tdisplay"
+			],
+			[
+				"bor",
+				"border-radius\tproperty"
+			],
+			[
+				"li",
+				"linear-gradient"
+			],
+			[
+				"He",
+				"Hermione"
+			],
+			[
+				"magical",
+				"magicalheader"
+			],
+			[
+				"c",
+				"content\tAttr"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"col-la",
+				"col-large-4"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"in",
+				"inline-block\tdisplay"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"inli",
+				"inline\tdisplay"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"cen",
+				"center"
+			],
+			[
+				"do",
+				"double"
+			],
+			[
+				"margi",
+				"margin-left\tproperty"
+			],
+			[
+				"width",
+				"border-left-width\tproperty"
+			],
+			[
+				"border-co",
+				"border-color\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"border-",
+				"border-spacing\tproperty"
+			],
+			[
+				"border",
+				"border-color\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"fon",
+				"font-style\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"p",
+				"p\tTag"
+			],
+			[
+				"very",
+				"verypoorspan"
+			],
+			[
+				"ver",
+				"verypoorspan"
+			],
+			[
+				"me",
+				"meta\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/E6530/НІТ2020/Practice2/style.css",
+		"/C/Users/E6530/НІТ2020/Practice2/main.html",
+		"/C/Users/E6530/coursera-js-html-css/module-3/index.html",
+		"/C/Users/E6530/coursera-js-html-css/site/index.html",
+		"/C/Users/E6530/coursera-js-html-css/site/css/styles.css",
+		"/C/Users/E6530/coursera-js-html-css/module-2-solution/styles.css",
+		"/C/Users/E6530/coursera-js-html-css/module-2-solution/index.html",
+		"/C/Users/E6530/coursera-js-html-css/site/js/bootstrap.min.js.map",
+		"/C/Users/E6530/coursera-js-html-css/site/css/bootstrap-grid.min.css",
+		"/C/Users/E6530/fullstack-course4/examples/Lecture04/doc-structure-before.html",
+		"/C/Users/E6530/coursera-js-html-css/site/myfirstpage.html"
+	],
+	"find":
+	{
+		"height": 62.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 62.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "main.sublime-project",
+	"replace":
+	{
+		"height": 120.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 287.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
